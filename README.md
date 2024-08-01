@@ -5,7 +5,7 @@ Because of the space limitations of GitHub Large File System (LFS) we could not 
 
 ## Supplementary materials/Links
 
-1. [Online Appendix]()
+1. [Online Appendix](https://github.com/Secure-Platforms-Lab-W-M/masc-journal-artifact/blob/main/online-appendix.pdf)
 2. Source code of MASC - [[Link]](https://github.com/Secure-Platforms-Lab-W-M/MASC)
 3. APKs of Android Applications Mutated using MASC - [[Link]](https://drive.google.com/drive/folders/14ZqYOJaR7iVnyHLF37zMDhS_3TcWHC7r?usp=sharing)
 4. Source code of Android Applications Mutated using Exhaustive Scope of MASC - [[Link]](https://drive.google.com/drive/folders/1ML9HkGRPfeetC6lnjzq2Ai8FT32dxBEk?usp=drive_link)
