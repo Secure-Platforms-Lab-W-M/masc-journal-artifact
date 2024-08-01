@@ -24,3 +24,10 @@ Because of the space limitations of GitHub Large File System (LFS) we could not 
    4. DeepSource
    5. SonarQube   
 
+## Previous Publication
+
+- A. S. Ami, N. Cooper, K. Kafle, K. Moran, D. Poshyvanyk, and A. Nadkarni, “Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques,” in 2022 IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, USA, May 2022, pp. 397–414, doi: 10.1109/SP46214.2022.9833582 [Online]. Available at: https://ieeexplore.ieee.org/document/9833582
+
+## Tool Demonstration
+
+- A. S. Ami et al., “MASC: A Tool for Mutation-Based Evaluation of Static Crypto-API Misuse Detectors,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track, San Francisco, Dec. 2023, doi: 10.1145/3611643.3613099.
