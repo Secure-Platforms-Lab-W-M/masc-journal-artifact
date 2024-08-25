@@ -18,11 +18,11 @@ Because of the space limitations of GitHub Large File System (LFS) we could not 
    5. QARK
    6. CogniCrypt with CrySL
 7. Crypto-detector analysis Results - [[Part 2]]()
-   1. Amazon Code Guru
-   2. Codiga
-   3. Snyk
-   4. DeepSource
-   5. SonarQube   
+   1. [Amazon Code Guru](https://drive.google.com/drive/folders/1Ukt6ZxvV1mqTVfTKIn0wbHT2fJjOPEPD?usp=sharing)
+   2. Codiga - [[Merged with DataDog and shutting down in May 4th](https://www.codiga.io/blog/codiga-joins-datadog/) | [No rules for Java](https://www.codiga.io/code-analysis/rules/java/all/all/)]
+   3. [Snyk](https://docs.google.com/document/d/19ae0VnD6cv37PwhXaprhKxpQz-kcGnU97Wq_i-wEyi0/edit)
+   4. [DeepSource](https://docs.google.com/document/d/1KiK4Ltu4ZsbLNxePAEB_FyS5tcj87f0C0x-tGtJyRbk/edit?usp=sharing)
+   5. [SonarQube](https://docs.google.com/document/d/1Pi1pRkbRPUEkZmS27qk4ZpXw2tlu16CeoNi-AQgwcnc/edit)   
 
 ## Previous Publication
 
